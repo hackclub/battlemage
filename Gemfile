@@ -82,6 +82,11 @@ gem "omniauth"
 gem "omniauth-rails_csrf_protection"
 gem "omniauth_openid_connect"
 gem "slack-ruby-client"
+gem "blazer"
+gem "flipper"
+gem "flipper-active_record"
+gem "flipper-ui"
+gem "flipper-active_support_cache_store"
 
 gem "tailwindcss-ruby", "~> 4.1"
 
